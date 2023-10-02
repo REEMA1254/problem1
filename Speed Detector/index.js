@@ -1,5 +1,5 @@
 const readline = require('readline');
-const calculateDemeritPoints = require('./speedDetector'); 
+const calculateDemeritPoints = require('./speed'); 
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,

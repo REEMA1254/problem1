@@ -1,5 +1,5 @@
 const readline = require('readline');
-const calculateDeductions = require('./netSalaryCalculator'); 
+const calculateDeductions = require('./salary'); 
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
